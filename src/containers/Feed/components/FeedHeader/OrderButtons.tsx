@@ -28,7 +28,7 @@ const OrderButtons: React.FC<Props> = () => {
         }`}
         onClick={() => handleClickOrderBy("desc")}
       >
-        Desc
+        Yeni
       </a>
       <a
         className={`cursor-pointer ${
@@ -38,7 +38,7 @@ const OrderButtons: React.FC<Props> = () => {
         }`}
         onClick={() => handleClickOrderBy("asc")}
       >
-        Asc
+        Eski
       </a>
     </div>
   )
