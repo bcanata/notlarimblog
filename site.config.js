@@ -10,12 +10,12 @@ const CONFIG = {
     github: "bcanata",
     instagram: "bugracanata",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
+    },
+  ],
 
   // blog setting (required)
   blog: {
